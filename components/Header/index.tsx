@@ -23,10 +23,10 @@ export default function Header() {
       <div>
         <ul>
           <li>
-            <a href="https://github.com/Keviinplz" target={"_blank"}><Github /></a>
+            <a href="https://github.com/Keviinplz" target={"_blank"} rel="noreferrer"><Github /></a>
           </li>
           <li>
-            <a href="https://linkedin.com/in/Keviinplz" target={"_blank"}><LinkedIn /></a>
+            <a href="https://linkedin.com/in/Keviinplz" target={"_blank"} rel="noreferrer"><LinkedIn /></a>
           </li>
         </ul>
       </div>

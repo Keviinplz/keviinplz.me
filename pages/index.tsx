@@ -14,7 +14,7 @@ const Home: NextPage = () => {
         <HeroTitle>
           <h1>
             Hello, World!
-            <br /> I'm Kevin.
+            <br /> I&apos;m Kevin.
           </h1>
           <p>
             A computer science engineer interesting in Fullstack Development and
